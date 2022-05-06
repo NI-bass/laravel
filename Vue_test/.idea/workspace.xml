@@ -154,7 +154,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../header" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../second" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -180,6 +180,7 @@
       <workItem from="1596868455457" duration="2421000" />
       <workItem from="1596933414763" duration="32000" />
       <workItem from="1602992901180" duration="361000" />
+      <workItem from="1606087801511" duration="12000" />
     </task>
     <servers />
   </component>
@@ -196,28 +197,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1596933444673">
+    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1606087811649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596933444673" />
-    <state width="914" height="345" key="GridCell.Tab.0.bottom" timestamp="1596868571714">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596868571714" />
-    <state width="914" height="345" key="GridCell.Tab.0.center" timestamp="1596868571714">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596868571714" />
-    <state width="914" height="345" key="GridCell.Tab.0.left" timestamp="1596868571714">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596868571714" />
-    <state width="914" height="345" key="GridCell.Tab.0.right" timestamp="1596868571714">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="914" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596868571714" />
+    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606087811649" />
     <state x="1275" y="439" key="NewPhpFileDialog" timestamp="1602992973430">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
