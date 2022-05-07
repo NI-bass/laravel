@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3d3d263-c002-4c23-bbe0-175ac1c46deb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/test.blade.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/test.blade.html.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,19 +203,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1606087811649">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606087811649" />
-    <state x="1275" y="439" key="NewPhpFileDialog" timestamp="1602992973430">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1275" y="439" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602992973430" />
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1602992956727">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602992956727" />
   </component>
 </project>
