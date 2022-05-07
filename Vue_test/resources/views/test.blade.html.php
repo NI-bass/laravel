@@ -1,5 +1,5 @@
 <?php
-echo "test1";
+echo "test";
 echo "test2";
 echo "test4";
 echo "test5";
